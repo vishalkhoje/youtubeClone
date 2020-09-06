@@ -17,7 +17,12 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "bundleIdentifier": "com.vk.youtubeclone",
+      "buildNumber": "1.1.0"
+    },
+    "android": {
+      "package": "com.vk.youtubeclone",
+      "versionCode": 2
     },
     "web": {
       "favicon": "./assets/favicon.png"
